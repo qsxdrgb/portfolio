@@ -1,7 +1,7 @@
 {
   "name": "portfolio-react",
   "version": "0.1.0",
-  "homepage": "https://qsxdrgb.github.io/portfolio-react",
+  "homepage": "https://qsxdrgb.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
